@@ -1,4 +1,4 @@
 .video-ribbon{background-color:#10aaf2}.audio-ribbon{background-color:#ffc20e}.gallery-ribbon{background-color:#f42621}.link-ribbon{background-color:#aaa}
 .image-ribbon{background-color:#bd5864}.quote-ribbon{background-color:#ebd292}.standard-ribbon{background-color:#7ba981}.top-header{width:100%;background:#fff;float:left;position:fixed;z-index:1000;border-bottom:2px solid #73c940}
-.container-dalam{width:1140px;margin:0 auto;overflow:hidden}#navigation{border-bottom:0}.container{margin-top:100px}#content,#content_bg{margin-top:100px}
-#sidebar{margin-top:100px}.logo{margin-top:100px}
+.container-dalam{width:1140px;margin:0 auto;overflow:hidden}#navigation{border-bottom:0;background:#fff}.container{margin-top:100px}#content,#content_bg{margin-top:100px}
+#sidebar{margin-top:100px}.logo{margin-top:100px}.container_shadow{background:transparent}

@@ -45,3 +45,6 @@ Backup this file before theme update - so after update can be restored!
 .logo{
 	margin-top: 100px;
 }
+.container_shadow {
+	background: transparent;
+}
