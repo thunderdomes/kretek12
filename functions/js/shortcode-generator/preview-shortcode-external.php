@@ -9,7 +9,7 @@ $url = $path_bits[0];
 // Require WordPress bootstrap.
 require_once( $url . '/wp-load.php' );
 
-$tmnf_theme_css = get_template_directory_uri() . '/style.css';
+$tmnf_theme_css = get_template_directory_uri() . '/style.min.css';
 $tmnf_shortcode_css = get_template_directory_uri() . '/functions/css/shortcodes.css';
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">

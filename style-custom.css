@@ -31,6 +31,7 @@ Backup this file before theme update - so after update can be restored!
 }
 #navigation{
 	border-bottom: none;
+	background: #fff;
 }
 .container{
 	margin-top: 100px;

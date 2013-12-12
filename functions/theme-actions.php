@@ -2,7 +2,7 @@
 // Register Styles
 function register_styles(){
 	
-	wp_register_style('style', get_stylesheet_directory_uri() .	'/style.css');
+	wp_register_style('style', get_stylesheet_directory_uri() .	'/style.min.css');
 		wp_enqueue_style( 'style');
 	wp_register_style('prettyPhoto', get_template_directory_uri() .	'/styles/prettyPhoto.css');
 		wp_enqueue_style( 'prettyPhoto');
@@ -170,7 +170,7 @@ add_action('themnific_head','themnific_mobile_styling');
 		// google fonts link generator
 		get_template_part('/functions/admin-fonts');
 		
-		wp_register_style('style-custom', get_stylesheet_directory_uri() .	'/style-custom.css');
+		wp_register_style('style-custom', get_stylesheet_directory_uri() .	'/style-custom.min.css');
 			wp_enqueue_style( 'style-custom');
 				
 		wp_register_style('social-media', get_template_directory_uri() .	'/styles/social-media.css');
