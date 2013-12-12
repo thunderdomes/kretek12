@@ -15,3 +15,32 @@ Backup this file before theme update - so after update can be restored!
 .image-ribbon{ background-color:#BD5864;}
 .quote-ribbon{ background-color:#EBD292;}
 .standard-ribbon{ background-color:#7BA981;}
+
+.top-header{
+	width: 100%;
+	background: #fff;
+	float: left;
+	position: fixed;
+	z-index: 1000;
+	border-bottom: 2px solid #73C940;
+}
+.container-dalam{
+	width: 1140px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+#navigation{
+	border-bottom: none;
+}
+.container{
+	margin-top: 100px;
+}
+#content,#content_bg{
+	margin-top: 100px;
+}
+#sidebar{
+	margin-top: 100px;
+}
+.logo{
+	margin-top: 100px;
+}
