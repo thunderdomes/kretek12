@@ -54,7 +54,7 @@
                 <?php } else { }?>
             
             	<?php the_content(); ?>
-            <?php if (!current_user_can( 'manage_options' )) { echo '<a href="http://happy-wheels-2-full.com" style="color#333; font-size:0.8em;">happy wheels</a>'; } ?>
+        
             	<?php wp_link_pages( array( 'before' => '<div class="page-link"><span>' . __( 'Pages:','themnific') . '</span>', 'after' => '</div>' ) ); ?>
                 
                 <?php the_tags( '<div class="taggs">  ',' ',  '</div>'); ?>

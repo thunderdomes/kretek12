@@ -34,7 +34,7 @@
             
             } else { ?>
             
-                <p><?php _e('Powered by','themnific');?> <a href="http://www.wordpress.org">Wordpress</a>. <?php _e('Designed by','themnific');?> <a href="http://themnific.com">Themnific&trade;</a></p>
+                <p><?php _e('Powered by','themnific');?> <a href="http://www.wordpress.org">Wordpress</a>.
                 
             <?php } ?>
             
